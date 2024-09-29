@@ -6,6 +6,10 @@ This is the frontend for the **Real-Time Code Collaboration** web app. It is bui
 
 The Real-Time Code Collaboration frontend is designed to offer an intuitive user interface for developers to collaborate on code in real-time. It supports multiple rooms, where users can share code, edit files, execute code, and chat, all in a highly interactive and responsive environment.
 
+## Demo Video
+
+[Click here to watch the demo video](https://youtu.be/ZARH1xeNyQM)
+
 ### Key Features
 
 - Collaborative code editing with syntax highlighting and auto-language detection.
