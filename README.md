@@ -10,6 +10,16 @@ The Real-Time Code Collaboration frontend is designed to offer an intuitive user
 
 [Click here to watch the demo video](https://youtu.be/ZARH1xeNyQM)
 
+## Screenshots
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| ------------ | ------------ | ------------ |
+| ![Screenshot 1](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(3).png) | ![Screenshot 2](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(4).png) | ![Screenshot 3](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(5).png) |
+| Screenshot 4 | Screenshot 5 | Screenshot 6 |
+| ![Screenshot 4](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(6).png) | ![Screenshot 5](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(7).png) | ![Screenshot 6](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(8).png) |
+| Screenshot 7 | Screenshot 8 | Screenshot 9 |
+| ![Screenshot 7](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(9).png) | ![Screenshot 8](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(10).png) | ![Screenshot 9](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(11).png) |
+
 ### Key Features
 
 - Collaborative code editing with syntax highlighting and auto-language detection.
