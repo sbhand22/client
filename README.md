@@ -19,6 +19,12 @@ The Real-Time Code Collaboration frontend is designed to offer an intuitive user
 | ![Screenshot 4](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(6).png) | ![Screenshot 5](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(7).png) | ![Screenshot 6](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(8).png) |
 | Screenshot 7 | Screenshot 8 | Screenshot 9 |
 | ![Screenshot 7](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(9).png) | ![Screenshot 8](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(10).png) | ![Screenshot 9](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(11).png) |
+| Screenshot 10 | Screenshot 11 | Screenshot 12 |
+| ![Screenshot 10](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(12).png) | ![Screenshot 11](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(13).png) | ![Screenshot 12](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(14).png) |
+| Screenshot 13 | Screenshot 14 | Screenshot 15 |
+| ![Screenshot 13](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(15).png) | ![Screenshot 14](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(16).png) | ![Screenshot 15](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(17).png) |
+| Screenshot 16 | 
+| ![Screenshot 16](https://raw.githubusercontent.com/sbhand22/code-colab-client/refs/heads/main/src/assets/demo%20images/Screenshot%20(18).png) | 
 
 ### Key Features
 
